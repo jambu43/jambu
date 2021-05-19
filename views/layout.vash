@@ -1,11 +1,79 @@
 <!DOCTYPE html>
-<html>
+<html lang="fr">
+
 <head>
-  <meta>
-  <title>@model.title</title>
-  <link rel='stylesheet' href='/stylesheets/style.css' />
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
+  <link href="images/favicon.png" rel="icon">
+  <title>Joel AMBU - Personal Portfolio</title>
+  <meta name="description" content="Joel AMBU, AMBU Joel, ambu, joel, developer frontEnd, frontend developer">
+  <meta name="author" content="joel AMBU">
+
+  <!-- Web Fonts -->
+  <link rel='stylesheet' href='../../css.css?family=Poppins:100,200,300,400,500,600,700,800,900' type='text/css'>
+
+  <!-- Stylesheet
+============================== -->
+  <!-- Animate -->
+  <link rel="stylesheet" type="text/css" href="vendor/animate/animate.min.css">
+  <!-- Bootstrap -->
+  <link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
+  <!-- Font Awesome Icon -->
+  <link rel="stylesheet" type="text/css" href="vendor/font-awesome/css/all.min.css">
+  <!-- Owl Carousel -->
+  <link rel="stylesheet" type="text/css" href="vendor/owl.carousel/assets/owl.carousel.min.css">
+  <!-- Magnific Popup -->
+  <link rel="stylesheet" type="text/css" href="vendor/magnific-popup/magnific-popup.min.css">
+  <!-- Custom Stylesheet -->
+  <link rel="stylesheet" type="text/css" href="css/stylesheet.css">
+  <!-- Colors Css -->
+  <link id="color-switcher" type="text/css" rel="stylesheet" href="#">
 </head>
-<body>
+
+<body data-spy="scroll" data-target=".navbar" data-offset="70">
+  
+
+  <!-- Preloader -->
+  <div class="preloader">
+    <div class="lds-ellipsis">
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+    </div>
+  </div>
   @html.block('content')
+  <!-- Back to Top
+============================================= -->
+  <a id="back-to-top" class="rounded-circle" data-toggle="tooltip" title="Back to Top" href="javascript:void(0)"><i
+      class="fas fa-arrow-up"></i></a>
+
+  <!-- JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <!-- Easing -->
+  <script src="vendor/jquery.easing/jquery.easing.min.js"></script>
+  <!-- Appear -->
+  <script src="vendor/jquery.appear/jquery.appear.min.js"></script>
+  <!-- WOW animation -->
+  <script src="vendor/wow/wow.min.js"></script>
+  <!-- Images Loaded -->
+  <script src="vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
+  <!-- Typed -->
+  <script src="vendor/typed/typed.min.js"></script>
+  <!-- Parallax Bg -->
+  <script src="vendor/parallaxie/parallaxie.min.js"></script>
+  <!-- Owl Carousel -->
+  <script src="vendor/owl.carousel/owl.carousel.min.js"></script>
+  <!-- isotope Portfolio Filter -->
+  <script src="vendor/isotope/isotope.pkgd.min.js"></script>
+  <!-- Magnific Popup -->
+  <script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+  <!-- Style Switcher -->
+  <script src="js/switcher.min.js"></script>
+  <!-- Custom Script -->
+  <script src="js/theme.js"></script>
 </body>
+
 </html>
