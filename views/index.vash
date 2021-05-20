@@ -429,7 +429,7 @@
                       href="images/projects/ressources/MyFCC.pdf" target="_blank"></a>
                     <div class="portfolio-overlay-details">
                       <p class="text-primary text-8"><i class="fas fa-file-alt"></i></p>
-                      <h5 class="text-white text-5">Maquette de l'application Mobile duFCC</h5>
+                      <h5 class="text-white text-5">Maquette de l'application Mobile du FCC</h5>
                       <span class="text-light">Mockup</span>
                     </div>
                   </div>
@@ -457,7 +457,7 @@
               <div class="portfolio-box my-3">
                 <div class="portfolio-img"> <img class="img-fluid d-block" src="images/projects/tolia.png" alt="">
                   <div class="portfolio-overlay"> <a class="stretched-link"
-                      href="images/projects/ressources/tolia.pdf"></a>
+                      href="images/projects/ressources/tolia.pdf" target="_blank"></a>
                     <div class="portfolio-overlay-details">
                       <p class="text-primary text-8"><i class="fas fa-file-alt"></i></p>
                       <h5 class="text-white text-5">Maquette de l'application Tolia</h5>
@@ -551,7 +551,7 @@
                   <div class="portfolio-overlay"> <a class=" stretched-link"
                       href="https://madam-s.net/" target="_blank"></a>
                     <div class="portfolio-overlay-details">
-                      <p class="text-primary text-8"><i class="fas fa-file-alt"></i></p>
+                      <p class="text-primary text-8"><i class="fas fa-globe"></i></p>
                       <h5 class="text-white text-5">Madam’S, ligne de vêtements très originale.</h5>
                       <span class="text-light">Site ecommerce</span>
                     </div>
@@ -567,8 +567,8 @@
                   <div class="portfolio-overlay"> <a class=" stretched-link"
                       href="https://lisolopay.com/" target="_blank"></a>
                     <div class="portfolio-overlay-details">
-                      <p class="text-primary text-8"><i class="fas fa-file-alt"></i></p>
-                      <h5 class="text-white text-5">Application web d'Acheat et ventes des Livres</h5>
+                      <p class="text-primary text-8"><i class="fas fa-globe"></i></p>
+                      <h5 class="text-white text-5">Application web d'Achat et ventes des Livres</h5>
                       <span class="text-light">Application Web</span>
                     </div>
                   </div>
@@ -649,7 +649,7 @@
               <div class="portfolio-box my-3">
                 <div class="portfolio-img"> <img class="img-fluid d-block" src="images/projects/raw-ligth.png" alt="">
                   <div class="portfolio-overlay"> <a class=" stretched-link"
-                      href="/images/projects/ressources/raw-ligth.pdf"></a>
+                      href="/images/projects/ressources/raw-ligth.pdf" target="_blank"></a>
                     <div class="portfolio-overlay-details">
                       <p class="text-primary text-8"><i class="fas fa-file-alt"></i></p>
                       <h5 class="text-white text-5"></h5>
