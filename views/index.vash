@@ -374,8 +374,8 @@
               <div class="portfolio-box my-3">
                 <div class="portfolio-img"> <img class="img-fluid d-block" src="images/projects/the-ewi-school.png"
                     alt="">
-                  <div class="portfolio-overlay"> <a class="popup-img stretched-link"
-                      href="images/projects/project-2.jpg"></a>
+                  <div class="portfolio-overlay"> <a class="stretched-link" target="_blank"
+                      href="images/projects/ressources/the-Ewi-school.pdf"></a>
                     <div class="portfolio-overlay-details">
                       <p class="text-primary text-8"><i class="fas fa-image"></i></p>
                       <h5 class="text-white text-5">The EWI School</h5>
@@ -389,12 +389,12 @@
             <div class="col-sm-6 col-lg-4 detailed">
               <div class="portfolio-box my-3">
                 <div class="portfolio-img"> <img class="img-fluid d-block" src="images/projects/rawbank.png" alt="">
-                  <div class="portfolio-overlay"> <a class="popup-ajax stretched-link"
-                      href="ajax/portfolio-ajax-project-1.html"></a>
+                  <div class="portfolio-overlay"> <a class="stretched-link"
+                      href="https://rawbank.herokuapp.com/" target="_blank"></a>
                     <div class="portfolio-overlay-details">
-                      <p class="text-primary text-8"><i class="fas fa-file-alt"></i></p>
-                      <h5 class="text-white text-5">Detailed Project 1</h5>
-                      <span class="text-light">Category</span>
+                      <p class="text-primary text-8"><i class="fas fa-globe"></i></p>
+                      <h5 class="text-white text-5">Rebrand site web Rawbank</h5>
+                      <span class="text-light">Site web</span>
                     </div>
                   </div>
                 </div>
@@ -405,12 +405,12 @@
               <div class="portfolio-box my-3">
                 <div class="portfolio-img"> <img class="img-fluid d-block" src="images/projects/hello-rawbank.png"
                     alt="">
-                  <div class="portfolio-overlay"> <a class="popup-ajax stretched-link"
-                      href="/ajax/portfolio-ajax-project-1.html"></a>
+                  <div class="portfolio-overlay"> <a class="stretched-link"
+                      href="https://rawbank.herokuapp.com/assistance" target="_blank"></a>
                     <div class="portfolio-overlay-details">
-                      <p class="text-primary text-8"><i class="fas fa-file-alt"></i></p>
-                      <h5 class="text-white text-5">Detailed Project 1</h5>
-                      <span class="text-light">Category</span>
+                      <p class="text-primary text-8"><i class="fas fa-globe"></i></p>
+                      <h5 class="text-white text-5">Platforme de prise de rendez-vous à Rawbank</h5>
+                      <span class="text-light">Application Web</span>
                     </div>
                   </div>
                 </div>
@@ -420,11 +420,11 @@
             <div class="col-sm-6 col-lg-4 mockups" data-wow-delay="0.3s">
               <div class="portfolio-box my-3">
                 <div class="portfolio-img"> <img class="img-fluid d-block" src="images/projects/MyFcc.png" alt="">
-                  <div class="portfolio-overlay"> <a class="popup-img stretched-link"
-                      href="images/projects/project-6.jpg"></a>
+                  <div class="portfolio-overlay"> <a class=" stretched-link"
+                      href="images/projects/ressources/MyFCC.pdf" target="_blank"></a>
                     <div class="portfolio-overlay-details">
                       <p class="text-primary text-8"><i class="fas fa-file-alt"></i></p>
-                      <h5 class="text-white text-5">MyFCC</h5>
+                      <h5 class="text-white text-5">Maquette de l'application Mobile duFCC</h5>
                       <span class="text-light">Mockup</span>
                     </div>
                   </div>
@@ -436,12 +436,12 @@
             <div class="col-sm-6 col-lg-4 detailed">
               <div class="portfolio-box my-3">
                 <div class="portfolio-img"> <img class="img-fluid d-block" src="images/projects/zahira.png" alt="">
-                  <div class="portfolio-overlay"> <a class="popup-ajax stretched-link"
-                      href="/ajax/portfolio-ajax-project-1.html"></a>
+                  <div class="portfolio-overlay"> <a class="stretched-link"
+                      href="https://web-zahira.herokuapp.com/" target="_blank"></a>
                     <div class="portfolio-overlay-details">
-                      <p class="text-primary text-8"><i class="fas fa-file-alt"></i></p>
-                      <h5 class="text-white text-5">Detailed Project 1</h5>
-                      <span class="text-light">Category</span>
+                      <p class="text-primary text-8"><i class="fas fa-globe"></i></p>
+                      <h5 class="text-white text-5">Site web du concessionnaire des véhicules TATA en RDC</h5>
+                      <span class="text-light">Site Web</span>
                     </div>
                   </div>
                 </div>
@@ -451,11 +451,11 @@
             <div class="col-sm-6 col-lg-4 mockups" data-wow-delay="0.3s">
               <div class="portfolio-box my-3">
                 <div class="portfolio-img"> <img class="img-fluid d-block" src="images/projects/tolia.png" alt="">
-                  <div class="portfolio-overlay"> <a class="popup-img stretched-link"
+                  <div class="portfolio-overlay"> <a class="stretched-link"
                       href="images/projects/ressources/tolia.pdf"></a>
                     <div class="portfolio-overlay-details">
-                      <p class="text-primary text-8"><i class="fas fa-image"></i></p>
-                      <h5 class="text-white text-5">Mockups Tolia</h5>
+                      <p class="text-primary text-8"><i class="fas fa-file-alt"></i></p>
+                      <h5 class="text-white text-5">Maquette de l'application Tolia</h5>
                       <span class="text-light">Mockup</span>
                     </div>
                   </div>
@@ -466,12 +466,12 @@
             <div class="col-sm-6 col-lg-4 detailed">
               <div class="portfolio-box my-3">
                 <div class="portfolio-img"> <img class="img-fluid d-block" src="images/projects/handaEnergy.png" alt="">
-                  <div class="portfolio-overlay"> <a class="popup-ajax stretched-link"
-                      href="/ajax/portfolio-ajax-project-1.html"></a>
+                  <div class="portfolio-overlay"> <a class="stretched-link"
+                      href="https://energy.congolia-sf.com/" target="_blank"></a>
                     <div class="portfolio-overlay-details">
-                      <p class="text-primary text-8"><i class="fas fa-file-alt"></i></p>
-                      <h5 class="text-white text-5">Detailed Project 1</h5>
-                      <span class="text-light">Category</span>
+                      <p class="text-primary text-8"><i class="fas fa-globe"></i></p>
+                      <h5 class="text-white text-5">La passerelle de paiement en ligne qui incubent tous les fournisseurs de courant prépayés de la SNEL.</h5>
+                      <span class="text-light">Application web</span>
                     </div>
                   </div>
                 </div>
@@ -482,26 +482,27 @@
             <div class="col-sm-6 col-lg-4 mockups" data-wow-delay="0.3s">
               <div class="portfolio-box my-3">
                 <div class="portfolio-img"> <img class="img-fluid d-block" src="images/projects/moddy.png" alt="">
-                  <div class="portfolio-overlay"> <a class="popup-img stretched-link"
-                      href="images/projects/ressources/MyFCC.pdf"></a>
+                  <div class="portfolio-overlay"> <a class="stretched-link"
+                      href="images/projects/ressources/Moody.pdf" target="_blank"></a>
                     <div class="portfolio-overlay-details">
                       <p class="text-primary text-8"><i class="fas fa-file-alt"></i></p>
-                      <h5 class="text-white text-5">Moody</h5>
+                      <h5 class="text-white text-5">Maquette du réseau social Moddy</h5> 
                       <span class="text-light">Mockup</span>
                     </div>
                   </div>
                 </div>
               </div>
             </div>
+
             <div class="col-sm-6 col-lg-4 detailed">
               <div class="portfolio-box my-3">
                 <div class="portfolio-img"> <img class="img-fluid d-block" src="images/projects/handa-paie.png" alt="">
-                  <div class="portfolio-overlay"> <a class="popup-ajax stretched-link"
-                      href="/ajax/portfolio-ajax-project-1.html"></a>
+                  <div class="portfolio-overlay"> <a class=" stretched-link"
+                      href="https://handa-pay.herokuapp.com/" target="_blank"></a>
                     <div class="portfolio-overlay-details">
-                      <p class="text-primary text-8"><i class="fas fa-file-alt"></i></p>
-                      <h5 class="text-white text-5">Detailed Project 1</h5>
-                      <span class="text-light">Category</span>
+                      <p class="text-primary text-8"><i class="fas fa-globe"></i></p>
+                      <h5 class="text-white text-5">Moyen de paiement pour les marchands</h5>
+                      <span class="text-light">Application Web</span>
                     </div>
                   </div>
                 </div>
@@ -511,12 +512,12 @@
             <div class="col-sm-6 col-lg-4 detailed">
               <div class="portfolio-box my-3">
                 <div class="portfolio-img"> <img class="img-fluid d-block" src="images/projects/bcpsc.png" alt="">
-                  <div class="portfolio-overlay"> <a class="popup-ajax stretched-link"
-                      href="/ajax/portfolio-ajax-project-1.html"></a>
+                  <div class="portfolio-overlay"> <a class=" stretched-link"
+                      href="https://bcpsc.congolia-sf.com/" target="_blank"></a>
                     <div class="portfolio-overlay-details">
-                      <p class="text-primary text-8"><i class="fas fa-file-alt"></i></p>
-                      <h5 class="text-white text-5">Detailed Project 1</h5>
-                      <span class="text-light">Category</span>
+                      <p class="text-primary text-8"><i class="fas fa-globe"></i></p>
+                      <h5 class="text-white text-5">Site web du Bureau de coordination et de suivi ​du programme Sino-Congolais</h5>
+                      <span class="text-light">Site web</span>
                     </div>
                   </div>
                 </div>
@@ -526,11 +527,11 @@
             <div class="col-sm-6 col-lg-4 mockups" data-wow-delay="0.3s">
               <div class="portfolio-box my-3">
                 <div class="portfolio-img"> <img class="img-fluid d-block" src="images/projects/Maktaba.png" alt="">
-                  <div class="portfolio-overlay"> <a class="popup-img stretched-link"
-                      href="images/projects/project-6.jpg"></a>
+                  <div class="portfolio-overlay"> <a class="stretched-link"
+                      href="images/projects/ressources/Maktaba.pdf" target="_blank"></a>
                     <div class="portfolio-overlay-details">
                       <p class="text-primary text-8"><i class="fas fa-file-alt"></i></p>
-                      <h5 class="text-white text-5">MyFCC</h5>
+                      <h5 class="text-white text-5">Maquette d'une bibliothèque en ligne </h5>
                       <span class="text-light">Mockup</span>
                     </div>
                   </div>
@@ -538,30 +539,16 @@
               </div>
             </div>
 
-            <div class="col-sm-6 col-lg-4 detailed">
-              <div class="portfolio-box my-3">
-                <div class="portfolio-img"> <img class="img-fluid d-block" src="images/projects/lisolo.png" alt="">
-                  <div class="portfolio-overlay"> <a class="popup-ajax stretched-link"
-                      href="/ajax/portfolio-ajax-project-1.html"></a>
-                    <div class="portfolio-overlay-details">
-                      <p class="text-primary text-8"><i class="fas fa-file-alt"></i></p>
-                      <h5 class="text-white text-5">Detailed Project 1</h5>
-                      <span class="text-light">Category</span>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
 
             <div class="col-sm-6 col-lg-4 detailed">
               <div class="portfolio-box my-3">
                 <div class="portfolio-img"> <img class="img-fluid d-block" src="images/projects/madam-s.png" alt="">
-                  <div class="portfolio-overlay"> <a class="popup-ajax stretched-link"
-                      href="/ajax/portfolio-ajax-project-1.html"></a>
+                  <div class="portfolio-overlay"> <a class=" stretched-link"
+                      href="https://madam-s.net/" target="_blank"></a>
                     <div class="portfolio-overlay-details">
                       <p class="text-primary text-8"><i class="fas fa-file-alt"></i></p>
-                      <h5 class="text-white text-5">Detailed Project 1</h5>
-                      <span class="text-light">Category</span>
+                      <h5 class="text-white text-5">Madam’S, ligne de vêtements très originale.</h5>
+                      <span class="text-light">Site ecommerce</span>
                     </div>
                   </div>
                 </div>
@@ -572,11 +559,11 @@
             <div class="col-sm-6 col-lg-4 detailed">
               <div class="portfolio-box my-3">
                 <div class="portfolio-img"> <img class="img-fluid d-block" src="images/projects/lisolopaie.png" alt="">
-                  <div class="portfolio-overlay"> <a class="popup-ajax stretched-link"
-                      href="/ajax/portfolio-ajax-project-1.html"></a>
+                  <div class="portfolio-overlay"> <a class=" stretched-link"
+                      href="https://lisolopay.com/" target="_blank"></a>
                     <div class="portfolio-overlay-details">
                       <p class="text-primary text-8"><i class="fas fa-file-alt"></i></p>
-                      <h5 class="text-white text-5">Lisolo paie</h5>
+                      <h5 class="text-white text-5">Application web d'Acheat et ventes des Livres</h5>
                       <span class="text-light">Application Web</span>
                     </div>
                   </div>
@@ -586,11 +573,11 @@
             <div class="col-sm-6 col-lg-4 detailed">
               <div class="portfolio-box my-3">
                 <div class="portfolio-img"> <img class="img-fluid d-block" src="images/projects/lisolo-ac-maquett.png" alt="">
-                  <div class="portfolio-overlay"> <a class="popup-ajax stretched-link"
-                      href="/ajax/portfolio-ajax-project-1.html"></a>
+                  <div class="portfolio-overlay"> <a class=" stretched-link"
+                      href="/images/projects/ressources/Maquette-app-lisolo-paie.pdf" target="_blank"></a>
                     <div class="portfolio-overlay-details">
                       <p class="text-primary text-8"><i class="fas fa-file-alt"></i></p>
-                      <h5 class="text-white text-5">Lisolo paie</h5>
+                      <h5 class="text-white text-5">Maquette de Lisolo paie</h5>
                       <span class="text-light">Mockup</span>
                     </div>
                   </div>
@@ -600,8 +587,8 @@
             <div class="col-sm-6 col-lg-4 detailed">
               <div class="portfolio-box my-3">
                 <div class="portfolio-img"> <img class="img-fluid d-block" src="images/projects/raw-mobil.png" alt="">
-                  <div class="portfolio-overlay"> <a class="popup-ajax stretched-link"
-                      href="/ajax/portfolio-ajax-project-1.html"></a>
+                  <div class="portfolio-overlay"> <a class=" stretched-link"
+                      href="/images/projects/ressources/mobile-raw.pdf" target="_blank"></a>
                     <div class="portfolio-overlay-details">
                       <p class="text-primary text-8"><i class="fas fa-file-alt"></i></p>
                       <h5 class="text-white text-5"></h5>
@@ -614,8 +601,8 @@
             <div class="col-sm-6 col-lg-4 detailed">
               <div class="portfolio-box my-3">
                 <div class="portfolio-img"> <img class="img-fluid d-block" src="images/projects/raw-dark.png" alt="">
-                  <div class="portfolio-overlay"> <a class="popup-ajax stretched-link"
-                      href="/ajax/portfolio-ajax-project-1.html"></a>
+                  <div class="portfolio-overlay"> <a class=" stretched-link"
+                      href="/images/projects/ressources/raw-dark.pdf" target="_blank"></a>
                     <div class="portfolio-overlay-details">
                       <p class="text-primary text-8"><i class="fas fa-file-alt"></i></p>
                       <h5 class="text-white text-5"></h5>
@@ -628,8 +615,8 @@
             <div class="col-sm-6 col-lg-4 detailed">
               <div class="portfolio-box my-3">
                 <div class="portfolio-img"> <img class="img-fluid d-block" src="images/projects/raw-ligth.png" alt="">
-                  <div class="portfolio-overlay"> <a class="popup-ajax stretched-link"
-                      href="/ajax/portfolio-ajax-project-1.html"></a>
+                  <div class="portfolio-overlay"> <a class=" stretched-link"
+                      href="/images/projects/ressources/raw-ligth.pdf"></a>
                     <div class="portfolio-overlay-details">
                       <p class="text-primary text-8"><i class="fas fa-file-alt"></i></p>
                       <h5 class="text-white text-5"></h5>
