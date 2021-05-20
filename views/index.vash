@@ -575,7 +575,7 @@
                 </div>
               </div>
             </div>
-            <div class="col-sm-6 col-lg-4 detailed">
+            <div class="col-sm-6 col-lg-4 mockups">
               <div class="portfolio-box my-3">
                 <div class="portfolio-img"> <img class="img-fluid d-block" src="images/projects/lisolo-ac-maquett.png" alt="">
                   <div class="portfolio-overlay"> <a class=" stretched-link"
@@ -589,7 +589,7 @@
                 </div>
               </div>
             </div>
-            <div class="col-sm-6 col-lg-4 detailed">
+            <div class="col-sm-6 col-lg-4 mockups">
               <div class="portfolio-box my-3">
                 <div class="portfolio-img"> <img class="img-fluid d-block" src="images/projects/raw-mobil.png" alt="">
                   <div class="portfolio-overlay"> <a class=" stretched-link"
@@ -631,7 +631,7 @@
                 </div>
               </div>
             </div>
-            <div class="col-sm-6 col-lg-4 detailed">
+            <div class="col-sm-6 col-lg-4 mockups">
               <div class="portfolio-box my-3">
                 <div class="portfolio-img"> <img class="img-fluid d-block" src="images/projects/raw-dark.png" alt="">
                   <div class="portfolio-overlay"> <a class=" stretched-link"
@@ -645,7 +645,7 @@
                 </div>
               </div>
             </div>
-            <div class="col-sm-6 col-lg-4 detailed">
+            <div class="col-sm-6 col-lg-4 mockups">
               <div class="portfolio-box my-3">
                 <div class="portfolio-img"> <img class="img-fluid d-block" src="images/projects/raw-ligth.png" alt="">
                   <div class="portfolio-overlay"> <a class=" stretched-link"
