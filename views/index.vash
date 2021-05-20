@@ -84,7 +84,6 @@
     <section id="about" class="section">
       <div class="container">
         <!-- Heading -->
-        <p class="text-center mb-2 wow fadeInUp"><span class="bg-primary text-dark px-2">About me</span></p>
         <h2 class="text-10 font-weight-600 text-center mb-5 wow fadeInUp">A propos de moi</h2>
         <!-- Heading end-->
 
@@ -137,8 +136,6 @@
     <section id="services" class="section bg-light" style="background-color: #000 !important; color: #fff !important">
       <div class="container">
         <!-- Heading -->
-        <p class=" text-center mb-2 wow fadeInUp"><span class="bg-primary text-dark px-2"
-            style="background-color: #fff !important">What I Do?</span></p>
         <h2 class="text-10 font-weight-600 text-center mb-5 wow fadeInUp">Comment je peux aider votre prochain projet
         </h2>
         <!-- Heading end-->
@@ -203,7 +200,6 @@
     <section id="resume" class="section">
       <div class="container">
         <!-- Heading -->
-        <p class=" text-center mb-2 wow fadeInUp"><span class="bg-primary text-dark px-2">Resume</span></p>
         <h2 class="text-10 font-weight-600 text-center mb-5 wow fadeInUp">Un résumé de mon CV</h2>
         <!-- Heading end-->
 
@@ -355,7 +351,6 @@
     <section id="portfolio" class="section bg-light" style="background-color: #000 !important; color: #fff;">
       <div class="container">
         <!-- Heading -->
-        <p class=" text-center mb-2 wow fadeInUp"><span class="bg-primary text-dark px-2">Portfolio</span></p>
         <h2 class="text-10 font-weight-600 text-center mb-5 wow fadeInUp">Projets rècents</h2>
         <!-- Heading end-->
 
