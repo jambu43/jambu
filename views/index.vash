@@ -220,25 +220,36 @@
           <div class="col-lg-6 mt-5 mt-lg-0 wow fadeInUp" data-wow-delay="0.2s">
             <h2 class="text-7 font-weight-600 mb-4 pb-2">Experiences</h2>
             <div class="border-left border-2 border-primary pl-3">
-              <h3 class="text-5">Développeur FontEnd</h3>
+              <h3 class="text-5">Développeur FontEnd & Chef de projet Digital</h3>
               <p class="mb-2">CMCTTCG - CONGOLIA / 2020 - Current</p>
-              <p class="text-muted">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                Ipsum has been the dummy text.</p>
+              <p class="text-muted">
+                 Développer des interfaces au code optimisé, qui facilitent l’accès des utilisateurs au contenu web et mobile.
+                 Assurer l’ergonomie visuelle et fonctionnelle du site et l'application mobile, assurer la portabilité et interopérabilité du site par la prise en compte des différentes plateformes et navigateurs.
+              </p>
               <hr class="my-4">
               <h3 class="text-5">Développeur Fullstack</h3>
               <p class="mb-2">243Pro / 2019 - 2020</p>
-              <p class="text-muted">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                Ipsum has been the dummy text.</p>
+              <p class="text-muted">
+                Redaction de la documentation technique. Conception (création, développement, codage, etc.) de site web & application mobile
+              </p>
               <hr class="my-4">
               <h3 class="text-5">Développeur Fullstack & Content Manager</h3>
               <p class="mb-2">KOMPETENCES / 2019</p>
-              <p class="text-muted">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                Ipsum has been the dummy text.</p>
+              <p class="text-muted">
+               Conception et création (création, développement, codage, etc.) de site web. <br>
+               Veille sur l’actualité du secteur d’activité et l’actualité générale, Analyse du comportement des consommateurs et de sa cible,
+               Création d’une stratégie de contenu et d’une ligne éditoriale,Création d’un planning de publication en fonction de sa stratégie, du rythme de production par les ressources internes et les partenaires Et
+               Adaptation du contenu ainsi que du planning en considération des événements nationaux, internationaux et internes à l’entreprise,
+
+              </p>
               <hr class="my-4">
               <h3 class="text-5">Développeur Fullstack & IT MANAGER</h3>
               <p class="mb-2">HAI / 2018</p>
-              <p class="text-muted">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                Ipsum has been the dummy text.</p>
+              <p class="text-muted">
+                Conception (création, développement, codage, etc.) des sites web <br>
+                Assurer que le personnel dispose des ressources matériel et des logiciels nécessaires à l'exécution de ses tâches  et que ces systèmes disposent de connexions réseau en bon état de fonctionnement.
+                Analyser les besoins technologiques de la mutelle et recommander des mises à niveau ainsi que des correctifs de sécurité, gèrer l'implémentation de nouveaux logiciels et matériels tout en respectant le budget et les délais.
+              </p>
             </div>
           </div>
         </div>
