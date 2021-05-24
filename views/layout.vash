@@ -23,13 +23,9 @@
   <!-- Font Awesome Icon -->
   <link rel="stylesheet" type="text/css" href="vendor/font-awesome/css/all.min.css">
   <!-- Owl Carousel -->
-  <link rel="stylesheet" type="text/css" href="vendor/owl.carousel/assets/owl.carousel.min.css">
-  <!-- Magnific Popup -->
-  <link rel="stylesheet" type="text/css" href="vendor/magnific-popup/magnific-popup.min.css">
   <!-- Custom Stylesheet -->
   <link rel="stylesheet" type="text/css" href="css/stylesheet.min.css">
   <!-- Colors Css -->
-  <link id="color-switcher" type="text/css" rel="stylesheet" href="#">
 </head>
 
 <body data-spy="scroll" data-target=".navbar" data-offset="70">
@@ -63,16 +59,12 @@
   <script src="vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
   <!-- Typed -->
   <script src="vendor/typed/typed.min.js"></script>
-  <!-- Parallax Bg -->
-  <script src="vendor/parallaxie/parallaxie.min.js"></script>
+
   <!-- Owl Carousel -->
   <script src="vendor/owl.carousel/owl.carousel.min.js"></script>
   <!-- isotope Portfolio Filter -->
   <script src="vendor/isotope/isotope.pkgd.min.js"></script>
-  <!-- Magnific Popup -->
-  <script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
-  <!-- Style Switcher -->
-  <script src="js/switcher.min.js"></script>
+
   <!-- Custom Script -->
   <script src="js/theme.js"></script>
 </body>
