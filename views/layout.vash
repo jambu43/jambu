@@ -27,7 +27,7 @@
   <!-- Magnific Popup -->
   <link rel="stylesheet" type="text/css" href="vendor/magnific-popup/magnific-popup.min.css">
   <!-- Custom Stylesheet -->
-  <link rel="stylesheet" type="text/css" href="css/stylesheet.css">
+  <link rel="stylesheet" type="text/css" href="css/stylesheet.min.css">
   <!-- Colors Css -->
   <link id="color-switcher" type="text/css" rel="stylesheet" href="#">
 </head>
