@@ -13,7 +13,7 @@
         <!-- Logo End -->
         <div class="text-3 ml-auto mr-2">
           <span class="text-4 mr-2"><i class="fas fa-phone"></i></span>
-          <a href="tel:+243824043468" style="color: #343a40 !important;">(243)824-043-468</a>
+          <a href="tel:+243824043468" style="color: #343a40 !important;"></a>
         </div>
         <button class="navbar-toggler magic-hover" type="button" data-toggle="collapse"
           data-target="#header-nav"><span></span><span></span><span></span></button>
@@ -56,12 +56,11 @@
       <div class="container my-auto py-4">
         <div class="row">
           <div class="col-lg-7 text-center text-lg-left align-self-center order-1 order-lg-0">
-            <h1 class="text-12 font-weight-300 mb-0 text-uppercase">Salut, je suis</h1>
+            <h1 class="text-12 font-weight-300 mb-0 text-uppercase">Je suis, Joel AMBU</h1>
             <div class="typed-strings">
               <p style="color: #fff;">Frontend</p>
               <p style="color: #fff;">Mobile</p>
-              <p>Developer</p>
-              <p>Joel AMBU</p>
+              <p>Developper</p>
             </div>
             <h2 class="text-21 font-weight-600 text-uppercase mb-0 ml-n1"><span class="typed"></span></h2>
             <p class="text-5">basé à Kinshasa</p>
@@ -93,7 +92,7 @@
               <h2 class="text-8 font-weight-400 mb-3">Je suis <span
                   class="font-weight-700 border-bottom border-3 border-primary">Joel AMBU</span></h2>
               <p class="text-5">
-                Je suis Joël Ambu, frontend développeur passionné par la création d'expérience utilisateur intuitive et dynamique avec d'excellentes conceptions web et mobile.
+               Frontend développeur passionné par la création d'expérience utilisateur intuitive et dynamique avec d'excellentes conceptions web et mobile.
                 Je suis d'une curiosité saine, bâtit d'une confiance tranquille et captivée par l'amélioration des petits détails pour des résultats remarquables.
                 Amoureux des résultats satisfaisant la clientèle, mon focus d'expert repose sur des livraisons de produits bâtis sur le délai avec de budget correspondant aux exigences des clients.</p>
             </div>
@@ -110,20 +109,20 @@
         <div class="row mt-4">
           <div class="col-6 col-lg-3 my-2 wow fadeInUp">
             <p class="text-muted font-weight-500 mb-0">Nom complet:</p>
-            <p class="text-4 text-dark font-weight-600 mb-0">Joel AMBU</p>
+            <p class="text-4 text-dark font-weight-600 mb-0" style="font-size: 14px !important;">Joel AMBU</p>
           </div>
-          <div class="col-6 col-lg-3 my-2 wow fadeInUp" data-wow-delay="0.2s">
+          <div class="col-6 col-lg-3 my-2 wow fadeInUp">
             <p class="text-muted font-weight-500 mb-0">Email:</p>
-            <p class="text-4 text-dark font-weight-600 mb-0"><a class="text-dark font-weight-600 btn-link"
-                href="mailto:ambujoel@gmail.com">ambujoel@gmail.com</a></p>
+            <p class="text-4 text-dark font-weight-600 mb-0" style="font-size: 14px !important;">ambujoel@gmail.com</p>
           </div>
+         
           <div class="col-6 col-lg-3 my-2 wow fadeInUp" data-wow-delay="0.3s">
             <p class="text-muted font-weight-500 mb-0">Date de naissance:</p>
-            <p class="text-4 text-dark font-weight-600 mb-0">03 Fevrier, 1997</p>
+            <p class="text-4 text-dark font-weight-600 mb-0" style="font-size: 14px !important;">03 Fevrier, 1997</p>
           </div>
           <div class="col-6 col-lg-3 my-2 wow fadeInUp" data-wow-delay="0.4s">
             <p class="text-muted font-weight-500 mb-0">De:</p>
-            <p class="text-4 text-dark font-weight-600 mb-0">Kinshasa.</p>
+            <p class="text-4 text-dark font-weight-600 mb-0" style="font-size: 14px !important;">Kinshasa.</p>
           </div>
         </div>
       </div>
