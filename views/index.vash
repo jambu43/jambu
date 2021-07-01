@@ -11,9 +11,9 @@
         <!-- Logo -->
         <a class="logo" href="index.html" title="JOEL AMBU"> <img src="images/logo.png" alt="JOEL AMBU"> </a>
         <!-- Logo End -->
-        <div class="text-3 ml-auto mr-2">
+        <div class="text-3 ml-auto mr-2 phone-menu">
           <span class="text-4 mr-2"><i class="fas fa-phone"></i></span>
-          <a href="tel:+243824043468" style="color: #343a40 !important;"></a>
+          <a href="tel:+243824043468" style="color: #343a40 !important;">243824043468</a>
         </div>
         <button class="navbar-toggler magic-hover" type="button" data-toggle="collapse"
           data-target="#header-nav"><span></span><span></span><span></span></button>
@@ -203,16 +203,14 @@
             <div class="border-left border-2 border-primary pl-3">
               <h3 class="text-5">Génie logiciels</h3>
               <p class="mb-2">ISIPA / 2018 - 2020</p>
-              <p class="text-muted">Computer Engineering is a discipline that is interested in the design and
-                implementation of systems, consisting of hardware and software, whose function is to capture, store,
-                process, transmit, control, display and, ultimately, use information , all in a pragmatic context of
-                application to problems of the real world.</p>
+              <p class="text-muted">
+                Le génie informatique est une discipline qui s'intéresse à la conception et à la mise en œuvre de systèmes, constitués de matériel et de logiciels, dont la fonction est de capturer, stocker, traiter, transmettre, contrôler, afficher et, en fin de compte, utiliser des informations, le tout dans un contexte pragmatique de application aux problèmes du monde réel.</p>
               <hr class="my-4">
               <h3 class="text-5">Programmation et Analyse</h3>
               <p class="mb-2">ISIPA / 2015 - 2018</p>
-              <p class="text-muted">Graduated with a bachelor of Analyse and Promming. From a given project or
-                problem, he is responsible for creating a suitable IT solution, translate it into computer language of
-                data structures and algorithms, to test the application</p>
+              <p class="text-muted">Diplômé d'un baccalauréat en analyse et programmation. À partir d'un projet donné ou
+                 problème, il est chargé de créer une solution informatique adaptée, de la traduire en langage informatique de
+                 structures de données et algorithmes, pour tester l'application</p>
             </div>
           </div>
           <!-- My Experience -->

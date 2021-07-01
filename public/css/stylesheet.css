@@ -2896,6 +2896,7 @@ hr {
   #back-to-top {
     z-index: 1029;
   }
+  
 }
 /* =================================== */
 /*  Extras
@@ -3387,4 +3388,8 @@ input:-internal-autofill-selected {
   right: auto;
   left: -40px;
   border-radius: 4px 0px 0px 4px;
+}
+
+@media (max-width: 576px) {
+  .phone-menu{display: none}
 }
