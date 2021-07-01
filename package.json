@@ -9,8 +9,15 @@
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
     "express": "~4.16.1",
+    "grunt-contrib-cssmin": "^4.0.0",
     "http-errors": "~1.6.3",
     "morgan": "~1.9.1",
     "vash": "~0.12.6"
+  },
+  "devDependencies": {
+    "grunt": "^1.4.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-jshint": "^3.0.0",
+    "grunt-contrib-uglify": "^5.0.1"
   }
 }

@@ -17,14 +17,11 @@
   <!-- Stylesheet
 ============================== -->
   <!-- Animate -->
-  <link rel="stylesheet" type="text/css" href="vendor/animate/animate.min.css">
-  <!-- Bootstrap -->
-  <link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
   <!-- Font Awesome Icon -->
   <link rel="stylesheet" type="text/css" href="vendor/font-awesome/css/all.min.css">
   <!-- Owl Carousel -->
   <!-- Custom Stylesheet -->
-  <link rel="stylesheet" type="text/css" href="css/stylesheet.min.css">
+  <link rel="stylesheet" type="text/css" href="css/output.css">
   <!-- Colors Css -->
 </head>
 
