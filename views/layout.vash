@@ -48,8 +48,7 @@
   <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
   <!-- Easing -->
   <script src="vendor/jquery.easing/jquery.easing.min.js"></script>
-  <!-- Appear -->
-  <script src="vendor/jquery.appear/jquery.appear.min.js"></script>
+
   <!-- WOW animation -->
   <script src="vendor/wow/wow.min.js"></script>
   <!-- Images Loaded -->

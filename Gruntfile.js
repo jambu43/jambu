@@ -12,7 +12,7 @@ module.exports = function(grunt) {
                     [
                       'public/vendor/animate/animate.min.css',
                       'public/vendor/bootstrap/css/bootstrap.min.css',
-                      'public/css/stylesheet.min.css',
+                      'public/css/stylesheet.css',
                     ]
               }
             }
