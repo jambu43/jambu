@@ -347,8 +347,10 @@
             </div>
           </div>
         </div>
-        <p class="text-center mt-5 wow fadeInUp"><a href="#" class="btn btn-outline-dark shadow-none rounded-0">Download
-            CV</a></p>
+        <p class="text-center mt-5 wow fadeInUp">
+          <a href="/document/AMBU-Joel.pdf" class="btn btn-outline-dark shadow-none rounded-0">Download
+            CV</a>
+        </p>
       </div>
     </section>
     <!-- Resume end -->
